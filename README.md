@@ -13,35 +13,7 @@
     </div>
 <div align="left">
         <br />
-        <p>
-            <strong>
-             As an emerging talent in computer science, I’ve cultivated my expertise in diverse domains, making me a dynamic force in the tech industry. Proficient in languages such as C, Java, JavaScript, and Python, and skilled with frameworks like React.js, HTML, CSS, and machine learning libraries, I’m equipped to tackle a wide range of development challenges.
-
-My hands-on experience with projects such as opinion miner and pose flow analyzer Detection System has enhanced my ability to design innovative solutions for real-world problems, from enhancing security measures with machine learning to streamlining task management with ReactJS. As a machine learning enthusiast, I excel at analyzing complex datasets, while my skills in front-end development ensure an intuitive user experience. Additionally, my competitive coding experience sharpens my problem-solving abilities, allowing me to thrive under press1ure and deliver efficient, high-quality results.
-
-With a solid foundation in computer science and a passion for continuous learning, I’m driven to push boundaries—whether through sustainable tech innovations, clean code, or effective user-centric designs.
-            </strong>
-        </p>
-        <ul>
-           <li>🔭🚀 <b>I’m currently working on</b>: Campus bases online compiler project, ReactJS-based applications, and enhancing machine learning model efficiency.</li>
-<li>🌱🧠 <b>I’m currently learning</b>: Advanced Data Structures and Algorithms, Web Development, and Database Management.</li>
-<li>💬 <b>Ask me about</b>: DSA, Web Development, and Competitive Programming.</li>
-<li>📫 <b>How to reach me</b>: Follow the links above to connect 👆, or check out my GitHub and LinkedIn for more details.</li>
-<li>⚡🐱‍🏍 <b>I’m currently open for</b>: Internship opportunities, collaborative projects, and job offers in software development.</li>
-
-            
-<a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-
-```py
-About Me = [
-    "I'm a Computer Science undergraduate with a passion for Problem Solving and Web Development, constantly on a journey of continuous learning and innovation."
-"Proficient in languages like C, Java, Python, HTML/CSS, JavaScript, and experienced with frameworks like ReactJS, I am dedicated to developing efficient solutions across various domains."
-"Through daily practice and exploration, I uncover new technologies and sharpen my skills in data analysis and software development."
-"In a world where technology evolves at lightning speed, I strive to write clean, optimized code and create impactful projects that push the boundaries of what's possible. 💻✨"
-]
-```
-<div align="center">
+    <div align="center">
      <a href="https://www.linkedin.com/in/abhay-gupta-2ag789/"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100"></a>
     <h1>🧠Skills Set 🦾🤖</h1>
     <h4>Below are several key technologies 🛰 I've utilized or been involved with.👨‍💻📈</h4>
@@ -88,6 +60,36 @@ About Me = [
     <code><a href="#" target="_blank"><img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" title="Eclipse" alt="eclipse" width="40" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" title="PyCharm" alt="PyCharm" width="40" height="40"/></a></code>&nbsp;
 </div>
+<br />
+        <p>
+            <strong>
+             As an emerging talent in computer science, I’ve cultivated my expertise in diverse domains, making me a dynamic force in the tech industry. Proficient in languages such as C, Java, JavaScript, and Python, and skilled with frameworks like React.js, HTML, CSS, and machine learning libraries, I’m equipped to tackle a wide range of development challenges.
+
+My hands-on experience with projects such as opinion miner and pose flow analyzer Detection System has enhanced my ability to design innovative solutions for real-world problems, from enhancing security measures with machine learning to streamlining task management with ReactJS. As a machine learning enthusiast, I excel at analyzing complex datasets, while my skills in front-end development ensure an intuitive user experience. Additionally, my competitive coding experience sharpens my problem-solving abilities, allowing me to thrive under press1ure and deliver efficient, high-quality results.
+
+With a solid foundation in computer science and a passion for continuous learning, I’m driven to push boundaries—whether through sustainable tech innovations, clean code, or effective user-centric designs.
+            </strong>
+        </p>
+        <ul>
+           <li>🔭🚀 <b>I’m currently working on</b>: Campus bases online compiler project, ReactJS-based applications, and enhancing machine learning model efficiency.</li>
+<li>🌱🧠 <b>I’m currently learning</b>: Advanced Data Structures and Algorithms, Web Development, and Database Management.</li>
+<li>💬 <b>Ask me about</b>: DSA, Web Development, and Competitive Programming.</li>
+<li>📫 <b>How to reach me</b>: Follow the links above to connect 👆, or check out my GitHub and LinkedIn for more details.</li>
+<li>⚡🐱‍🏍 <b>I’m currently open for</b>: Internship opportunities, collaborative projects, and job offers in software development.</li>
+
+            
+<a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+
+```py
+About Me = [
+    "I'm a Computer Science undergraduate with a passion for Problem Solving and Web Development, constantly on a journey of continuous learning and innovation."
+"Proficient in languages like C, Java, Python, HTML/CSS, JavaScript, and experienced with frameworks like ReactJS, I am dedicated to developing efficient solutions across various domains."
+"Through daily practice and exploration, I uncover new technologies and sharpen my skills in data analysis and software development."
+"In a world where technology evolves at lightning speed, I strive to write clean, optimized code and create impactful projects that push the boundaries of what's possible. 💻✨"
+]
+```
+
 
 <hr>
 
